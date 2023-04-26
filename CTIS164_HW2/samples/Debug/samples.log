@@ -1,0 +1,3 @@
+﻿  samples.cpp
+C:\Users\tunac\source\repos\CTIS164_HW2\samples\samples.cpp(452,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  samples.vcxproj -> C:\Users\tunac\source\repos\CTIS164_HW2\Debug\samples.exe

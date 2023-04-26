@@ -1,0 +1,8 @@
+﻿  Collu_Tuna.cpp
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(147,37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(223,66): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(240,52): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(524,37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(564,41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\tunac\source\repos\CTIS164_HW2\HW2\Collu_Tuna.cpp(596,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HW2.vcxproj -> C:\Users\tunac\source\repos\CTIS164_HW2\Debug\HW2.exe
